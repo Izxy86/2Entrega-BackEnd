@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "Notebool Lenovo",
+    "description": "Computadoras",
+    "price": 200000,
+    "thumbnail": "public/images/notebook-lenovo.jpg",
+    "code": "LEN123",
+    "stock": 5
+  },
+  {
+    "id": 2,
+    "title": "Xiaomi Mi-9",
+    "description": "Celulares",
+    "price": 70000,
+    "thumbnail": "public/images/xiaomi-mi-9.jpg",
+    "code": "TanC123",
+    "stock": 4
+  },
+  {
+    "id": 3,
+    "title": "Smart Tv Novatech",
+    "description": "Televisores",
+    "price": 1500000,
+    "thumbnail": "public/images/smart-tv-novatech.jpg",
+    "code": "Lor123",
+    "stock": 8
+  },
+  {
+    "id": 4,
+    "title": "Camara Iqual C40",
+    "description": "Electrónica",
+    "price": 6000,
+    "thumbnail": "public/images/camara-iqual.jpg",
+    "code": "GOT123",
+    "stock": 12
+  },
+  {
+    "id": 5,
+    "title": "Logitech G502",
+    "description": "Mouse",
+    "price": 800,
+    "thumbnail": "public/images/mouse-logitech.jpg",
+    "code": "HP123",
+    "stock": 10
+  }
+]
