@@ -1,4 +1,3 @@
-// Desafío N° 1 y 2 - Julián Lapunzina
 const {promises} = require("fs")
 
 
