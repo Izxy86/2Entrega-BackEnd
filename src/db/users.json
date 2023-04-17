@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Martín",
+        "lastname": "Gamboggi",
+        "age": 36,
+        "address": "Uspallata 1710",
+        "e-mail": "gamboggimartin@gmail.com",
+        "genero": "masculino",
+        "password": "martin17b",
+        "id": 1
+    },
+    {
+        "name": "Martín2",
+        "lastname": "Gamboggi2",
+        "age": 36,
+        "address": "Uspallata 1710",
+        "e-mail": "gamboggimartin@gmail.com",
+        "genero": "masculino",
+        "password": "martin172b",
+        "id": 2
+    },
+    {
+        "name": "Martín3",
+        "lastname": "Gamboggi3",
+        "age": 36,
+        "address": "Uspallata 1710",
+        "e-mail": "gamboggimartin@gmail.com",
+        "genero": "masculino",
+        "password": "martin173b",
+        "id": 3
+    }
+]
+
